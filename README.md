@@ -12,7 +12,7 @@ This project is a simple Python script that allows you to perform object detecti
 
 ## Usage
 
-### 1. Requirements:
+#### 1. Requirements:
 <ul>
 <li>Python</li>
 <li>OpenCV (cv2)</li>
