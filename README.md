@@ -4,6 +4,8 @@ This project is a simple Python script that allows you to perform object detecti
 
 ## Features
 
-<strong>Object Detection</strong>: Detects objects in a specified frame of a video using a pre-trained model.
-User-Friendly: You can specify the timestamp (hh:mm:ss) for the frame you want to analyze.
-Frame Saving: The detected objects are annotated, and you can save the frame as an image for later reference.
+<ul>
+<li><strong>Object Detection</strong>: Detects objects in a specified frame of a video using a pre-trained model.</li>
+<li><strong>User-Friendly</strong>: You can specify the timestamp (hh:mm:ss) for the frame you want to analyze.</li>
+<li><strong>Frame Saving</strong>: The detected objects are annotated, and you can save the frame as an image for later reference.</li>
+</ul>
